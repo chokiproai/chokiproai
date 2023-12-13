@@ -9,3 +9,5 @@ This is a message I want to send to you:
 - 💬 Ask me about anything related to AI, I will try to answer as best I can.
 - 😄 My pronoun is he/him/guy.
 - 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/ngoctuanai
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chokiproai&theme=transparent)
