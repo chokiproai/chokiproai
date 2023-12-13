@@ -10,4 +10,4 @@ This is a message I want to send to you:
 - 😄 My pronoun is he/him/guy.
 - 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/ngoctuanai
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chokiproai&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chokiproai&show_icons=true&theme=transparent)
