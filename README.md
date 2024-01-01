@@ -14,6 +14,6 @@
 
 > 😄 My pronoun is he/him/guy.
 
-> 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/ngoctuanai1
+> 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/ngoctuanai
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chokiproai&show_icons=true&theme=transparent)
