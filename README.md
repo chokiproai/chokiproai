@@ -1,19 +1,13 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">🎉👋 Hi there! 👋🎉</h1>
 
-- This is a message I want to send to you:
+Welcome! So glad you've stopped by. Here's what I'm up to:
 
-> 🔭 I'm currently working on creating an AI website for the best chat.
-
-> 🌱 I'm still going to school.
-
-> 👯 I want to cooperate with people who have the same passion for AI and want to create products that are useful to society⚡.
-
-> 🤔 I'm looking for help on how to optimize my code and improve AI performance.
-
-> 💬 Ask me about anything related to AI, I will try to answer as best I can.
-
-> 😄 My pronoun is he/him/guy.
-
-> 💁‍♂️ Here is the link to my projects ---> [All my projects](https://ngoctuanai-project.static.hf.space)
+- 🔭 **Current Venture:** I'm immersed in building an AI-powered website that aims to be the zenith of chat experiences.
+- 🌱 **Education:** Still traversing the educational path.
+- 👯 **Collaboration:** Keen to join forces with like-minded AI enthusiasts who are eager to craft products that positively impact our communities. ⚡
+- 🤔 **Seeking Assistance:** Any pro tips on code optimization and elevating AI efficacy are much appreciated.
+- 💬 **AI Conversations:** Curious about AI? Hit me up! I'll endeavor to provide the most insightful responses I can muster.
+- 😄 **Pronouns:** He/Him/Guy
+- 💁‍♂️ **Check Out My Projects:** Here's where you can find all the cool stuff I've been working on — [All my projects](https://ngoctuanai-project.static.hf.space)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chokiproai&show_icons=true&theme=transparent)
