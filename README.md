@@ -1,4 +1,6 @@
-<h1 align="center">🎉👋 Hi there! 👋🎉</h1>
+  <h1 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&size=30&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=%F0%9F%8E%89%F0%9F%91%8B+Hi+there!+%F0%9F%91%8B%F0%9F%8E%89;%E2%9D%A4%EF%B8%8F%F0%9F%98%8D+I'm+ngoctuanai+%E2%9D%A4%EF%B8%8F%F0%9F%98%8D">  
+  </h1>
 
 Welcome! So glad you've stopped by. Here's what I'm up to:
 
