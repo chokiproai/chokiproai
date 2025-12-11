@@ -12,4 +12,5 @@ Welcome! So glad you've stopped by. Here's what I'm up to:
 - 😄 **Pronouns:** He/Him/Guy
 - 💁‍♂️ **Check Out My Projects:** Here's where you can find all the cool stuff I've been working on — [All my projects](https://chokiproai.github.io/project)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chokiproai&show_icons=true&theme=transparent)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chokiproai&theme=dark)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chokiproai&theme=dark)
